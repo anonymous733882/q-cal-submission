@@ -1,0 +1,8 @@
+torch==2.5.1
+transformers==5.4.0
+datasets==4.8.4
+qwen-vl-utils==0.0.14
+accelerate==1.13.0
+numpy==2.1.2
+Pillow==10.2.0
+pyarrow==23.0.1
